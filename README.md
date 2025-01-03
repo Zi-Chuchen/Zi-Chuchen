@@ -16,7 +16,7 @@
   <br>
   📚 I'm currently learning how to use QT
   <br>
-  📫 How to reach me: <a href="QQ2027439658@outlook.com">QQ2027439658@outlook.com</a>
+  📫 How to reach me: <a>QQ2027439658@outlook.com</a>
 </p>
 
 
