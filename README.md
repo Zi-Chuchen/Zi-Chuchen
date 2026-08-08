@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/README_EN.md">
+  <a href="README_EN.md">
     <img src="https://img.shields.io/badge/ReadMe-English-blue?style=flat-square&logo=readthedocs" alt="English ReadMe">
   </a>
 </div>
