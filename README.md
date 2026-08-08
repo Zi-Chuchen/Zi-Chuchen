@@ -2,38 +2,50 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ZiChu-chen....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀!+👋;我是+ZiChuchen...;热衷于现代+C++;热衷于游戏开发!&center=true&size=30&color=F7D04A&vCenter=true">
   </a>
 </h1>
+
 <br>
+
 <p align="center">
-  Hi, I'm ZiChu-chen, a high school student comes from China
+  一名来自中国的普通高中生 | C++ 爱好者 | 独立游戏开发者
   <br>
   <br>
-  🎓 I'm studying in high school
+  🎓 目前就读于高中，课余时间专注于代码与图形学
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 深耕现代 C++ (C++17/20)，探索高性能编程
   <br>
-  📚 I'm currently learning how to use QT
+  🎮 正在使用 C++/Qt 及各类图形库进行个人游戏开发
   <br>
-  📫 How to reach me: <a>QQ2027439658@outlook.com</a>
+  🛠️ 技术栈: C++, Vulkan, CMake
+  <br>
+  📫 联系方式: <a href="mailto:QQ2027439658@outlook.com">QQ2027439658@outlook.com</a>
+  <br>
+  🌱 相信代码改变世界，正在从零构建自己的游戏引擎
 </p>
 
+<br>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🛠️ 技术栈与工具</h3>
+<p align="center">
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://doc.qt.io/" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"></a>
+  <a href="https://www.opengl.org/" target="_blank"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"></a>
+  <a href="https://cmake.org/" target="_blank"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">📊 GitHub 统计</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br>
 
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
--->
+<div align="center">
+  <a href="https://github.com/zumrudu-anka/zumrudu-anka/blob/main/README_EN.md">
+    <img src="https://img.shields.io/badge/ReadMe-English-blue?style=flat-square&logo=readthedocs" alt="English ReadMe">
+  </a>
+</div>
