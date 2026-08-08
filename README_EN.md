@@ -37,7 +37,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/zumrudu-anka/zumrudu-anka">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/ReadMe-中文-red?style=flat-square&logo=readthedocs" alt="Chinese ReadMe">
   </a>
 </div>
