@@ -1,43 +1,143 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!-- Visitor Counter -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zi-Chuchen.Zi-Chuchen&left_color=000000&right_color=1F6FEB&left_text=👁️%20VISITORS" alt="Visitor Count"/>
+</p>
 
+<!-- Top Typing Animation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ZiChu-chen....;Passionate+about+Modern+C++;Indie+Game+Dev!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋%20Hey%2C%20I'm%20ZiChu-chen!;🔥%20Modern%20C%2B%2B%20Enthusiast;🎮%20Indie%20Game%20Developer;🚀%20Building%20a%20Game%20Engine...">
 </h1>
-<br>
+
+<!-- Colorful Wave Header -->
 <p align="center">
-  High school student & self-taught developer from China
-  <br>
-  <br>
-  🎓 Currently studying in high school
-  <br>
-  💻 Focusing on Modern C++ (C++17/20) and low-level programming
-  <br>
-  🎮 Building personal game projects with C++/Lua/Vulkan
-  <br>
-  🛠️ Tech Stack: C++, Lua, Vulkan, CMake
-  <br>
-  📚 Currently diving deep into Game Engine Architecture
-  <br>
-  📫 How to reach me: <a href="mailto:QQ2027439658@outlook.com">QQ2027439658@outlook.com</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" alt="Wave Header"/>
 </p>
 
-<br>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-<p align="center">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
-  <a href="https://www.vulkan.org/" target="_blank"><img src="https://img.shields.io/badge/Vulkan-AC1622?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"></a>
-  <a href="https://cmake.org/" target="_blank"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-</p>
-
-<br>
-
+<!-- About Me Section -->
 <div align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/ReadMe-中文-red?style=flat-square&logo=readthedocs" alt="Chinese ReadMe">
-  </a>
+  <table>
+    <tr>
+      <td align="left" valign="middle">
+        <p>
+          🎓 <b>Role</b>: High school student from China<br>
+          💻 <b>Focus</b>: Modern C++ (C++17/20) + Lua scripting systems<br>
+          🎮 <b>Direction</b>: Indie game dev / Game engine architecture<br>
+          🛠️ <b>Graphics</b>: Vulkan low-level rendering pipeline<br>
+          📫 <b>Reach me</b>: <a href="qq2027439658@outlook.com">qq2027439658@outlook.com</a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+<!-- Tech Stack Title -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0FTG/giphy.gif" width="30"/>
+  &nbsp;Tech Stack & Tools
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0FTG/giphy.gif" width="30"/>
+</h2>
+
+<!-- Tech Badges -->
+<p align="center">
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  </a>
+  &nbsp;
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  </a>
+  &nbsp;
+  <a href="https://www.vulkan.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vulkan-AC1622?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"/>
+  </a>
+  &nbsp;
+  <a href="https://cmake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Stats Title -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/du3J3cBV31fO4deo8i/giphy.gif" width="30"/>
+  &nbsp;GitHub Analytics
+  <img src="https://media.giphy.com/media/du3J3cBV31fO4deo8i/giphy.gif" width="30"/>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Zi-Chuchen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zi-Chuchen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&line_height=22&title_color=F7D04A&icon_color=58A6FF&text_color=FFFFFF&bg_color=0D1117"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zi-Chuchen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Chuchen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=F7D04A&text_color=FFFFFF&bg_color=0D1117"/>
+  </a>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/Zi-Chuchen">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Chuchen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring_color=F7D04A&fire_color=FF6B6B&side_nums_color=58A6FF&curr_streak_label=%F0%9F%94%A5%20Current%20Streak" alt="Streak Stats"/>
+  </a>
+</p>
+
+<!-- Contribution Snake Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zi-Chuchen&theme=tokyo-night&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB" alt="Contribution Activity"/>
+</p>
+
+<br>
+
+<!-- Current Status -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21Twm/giphy.gif" width="30"/>
+  &nbsp;What I'm Up To
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21Twm/giphy.gif" width="30"/>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Zi-Chuchen?tab=repositories">
+    <img src="https://img.shields.io/badge/🔭%20Building-Personal%20Game%20Engine-8A2BE2?style=for-the-badge&logoColor=white" alt="Building"/>
+  </a>
+  &nbsp;
+  <a href="https://en.cppreference.com/w/cpp/20">
+    <img src="https://img.shields.io/badge/🌱%20Learning-C%2B%2B20%20Concepts-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Learning"/>
+  </a>
+  &nbsp;
+  <a href="https://www.vulkan.org/learn">
+    <img src="https://img.shields.io/badge/📖%20Studying-Vulkan%20Render%20Pipeline-AC1622?style=for-the-badge&logo=vulkan&logoColor=white" alt="Studying"/>
+  </a>
+  &nbsp;
+  <a href="https://www.lua.org/pil/">
+    <img src="https://img.shields.io/badge/🎯%20Goal-Lua%20Scripting%20System-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Goal"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Fun Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=0" alt="Wave Footer"/>
+</p>
+
+<!-- Language Switch -->
+<p align="center">
+  <a href="https://github.com/Zi-Chuchen/Zi-Chuchen/blob/main/README.md">
+    <img src="https://img.shields.io/badge/🇨🇳%20中文版-点击查看-FF0000?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Chinese Version"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zi-Chuchen/Zi-Chuchen">
+    <img src="https://img.shields.io/badge/⭐%20Give%20me%20a%20Star!-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+  </a>
+</p>
