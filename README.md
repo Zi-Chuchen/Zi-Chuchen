@@ -1,6 +1,6 @@
 <!-- 访客计数器 -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zi-Chuchen.Zi-Chuchen&left_color=000000&right_color=1F6FEB&left_text=👁️%20VISITORS" alt="访客计数"/>
+  <img src="https://komarev.com/ghpvc/?username=Zi-Chuchen&label=👁️%20VISITORS&color=1F6FEB&style=flat-square" alt="访客计数"/>
 </p>
 
 <!-- 顶部动态打字机特效 -->
